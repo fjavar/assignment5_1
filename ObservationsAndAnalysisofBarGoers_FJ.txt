@@ -1,0 +1,15 @@
+To analyze the data, I used Jupyter Notebook and the accompanying dataset to develop codes and plots to conduct analysis. The code is saved in the “Assignment_5_1.ipnyb” file.
+
+Observations:
+
+According to the data:
+1.	Customers who frequently visit bars tend to have a higher acceptance rate for bar-related coupons. Specifically, drivers who visit bars more than three times a month show a significantly greater likelihood of accepting bar coupons compared to those who visit less frequently.
+2.	There isn't a clear pattern in acceptance rates based solely on age being over 25, suggesting other factors play a more significant role.
+3.	Passengers who are adults and work in fields other than farming, fishing, or forestry tend to have higher acceptance rates for bar coupons. This trend suggests that there may be a social component to bar visits, making these coupons more attractive to individuals who enjoy going out with friends or colleagues.
+4.	Drivers who are not widowed and go to bars more than once a month, without kids as passengers, have a higher acceptance rate. This further supports the idea that bar coupons are more attractive to individuals in social situations or those without family constraints.
+
+Who accepts bar coupons?
+Based on these data drivers who are more likely to accept bar coupons are those who:
+•	Frequently visit bars: They are already inclined towards bar visits, making the coupon an incentive to continue their existing behavior.
+•	Go to bars for social reasons: The presence of adult passengers and occupations outside of specific fields (farming, fishing, forestry) suggests a social motivation for bar visits.
+•	Are not constrained by family obligations: The higher acceptance rate among those not widowed and without kids as passengers indicates fewer family constraints on their decision-making.
